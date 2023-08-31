@@ -1,5 +1,8 @@
 ## Привет!
 ### Я разносторонний full-stack разработчик.
+
+<img src="https://girfach.github.io/animation-girfach/Vector1.svg" alt="svg" width="355" height="83"/>
+
 ___
 ### Обо мне:
 Я начинающий разработчик. За всё время имел опыт со множеством различных языков программирования. Также имел дело с отраслью веб-разработки и базами данных MySQL.
@@ -19,17 +22,3 @@ ___
 ### Связь со мной:
 <a href="https://vk.com/is_russia_88" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e8005e7cba12a7d7a844030ba9a19259bf56e6b5e921b4053aa82f7a7b38fe60/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="40" height="40"/></a> <a href="vk.com/is_russia_88" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40"/>
 
-<!--
-**shvec174/shvec174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
