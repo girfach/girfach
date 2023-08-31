@@ -1,7 +1,7 @@
 ## Привет!
 ### Я разносторонний full-stack разработчик.
 
-<img src="https://girfach.github.io/animation-girfach/Vector1.svg" alt="svg" width="355" height="83"/>
+<img src="Vector 1.svg" alt="svg" width="355" height="83"/>
 
 ___
 ### Обо мне:
